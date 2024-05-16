@@ -42,21 +42,20 @@ You'll need a web browser to view the project. No additional software or librari
 2. Add a new blog object to the array with title, excerpt, and content fields. The content field can include HTML tags for rich formatting.
 
 #### Example:
-
-    ```json
-[
-{
-"title": "Blog Post 1: Exploring Minimalism",
-"excerpt": "Minimalism is more than just a design trend; it's a lifestyle choice...",
-"content": "<p>Minimalism is more than just a design trend; it's a lifestyle choice. In this post, I delve into the principles of minimalism and how it can help simplify your life and increase your focus.</p><p>Here's an example of an embedded image:</p><img src='image1.jpg' alt='Minimalism'><p>And here's a video:</p><iframe width='560' height='315' src='https://www.youtube.com/embed/dQw4w9WgXcQ' frameborder='0' allowfullscreen></iframe>"
-},
-{
-"title": "Blog Post 2: The Benefits of Meditation",
-"excerpt": "Meditation has been proven to reduce stress, improve concentration...",
-"content": "<p>Meditation has been proven to reduce stress, improve concentration, and promote overall well-being. Here, I share my personal journey with meditation and tips on how to get started.</p><p>Here's an example of an embedded image:</p><img src='image2.jpg' alt='Meditation'><p>And here's a video:</p><iframe width='560' height='315' src='https://www.youtube.com/embed/dQw4w9WgXcQ' frameborder='0' allowfullscreen></iframe>"
-}
-]
-    ```
+   ```json
+   {
+   {
+   "title": "Blog Post 1: Exploring Minimalism",
+   "excerpt": "Minimalism is more than just a design trend; it's a lifestyle choice...",
+   "content": "<p>Minimalism is more than just a design trend; it's a lifestyle choice. In this post, I delve into the principles of minimalism and how it can help simplify your life and increase your focus.</p><p>Here's an example of an embedded image:</p><img src='image1.jpg' alt='Minimalism'><p>And here's a video:</p><iframe width='560' height='315' src='https://www.youtube.com/embed/dQw4w9WgXcQ' frameborder='0' allowfullscreen></iframe>"
+   },
+   {
+   "title": "Blog Post 2: The Benefits of Meditation",
+   "excerpt": "Meditation has been proven to reduce stress, improve concentration...",
+   "content": "<p>Meditation has been proven to reduce stress, improve concentration, and promote overall well-being. Here, I share my personal journey with meditation and tips on how to get started.</p><p>Here's an example of an embedded image:</p><img src='image2.jpg' alt='Meditation'><p>And here's a video:</p><iframe width='560' height='315' src='https://www.youtube.com/embed/dQw4w9WgXcQ' frameborder='0' allowfullscreen></iframe>"
+   }
+   }
+   ```
 
 ## Credits
 This project was created by Muneer Alam with significant assistance from ChatGPT, an AI developed by OpenAI. The project is made almost entirely by ChatGPT with just some slight modifications made by Muneer Alam.
