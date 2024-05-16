@@ -27,6 +27,9 @@ You'll need a web browser to view the project. No additional software or librari
    ```
 3. Open index.html in your web browser to view the main page.
 
+### Viewing the Webpage
+You can view the live webpage at: https://muneer320.github.io/Blogg/
+
 ### File Structure
 
 - index.html: The main page of the blog.
@@ -58,7 +61,7 @@ You'll need a web browser to view the project. No additional software or librari
    ```
 
 ## Credits
-This project was created by Muneer Alam with significant assistance from ChatGPT, an AI developed by OpenAI. The project is made almost entirely by ChatGPT with just some slight modifications made by Muneer Alam.
+This project was created by [Muneer Alam](https://github.com/Muneer320) with significant assistance from [ChatGPT](https://chat.openai.com), an AI developed by OpenAI.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE file](LICENSE) for details.
