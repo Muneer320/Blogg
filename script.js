@@ -7,12 +7,12 @@ document.addEventListener("DOMContentLoaded", () => {
       blogs.forEach((blog, index) => {
         const blogPost = document.createElement("div");
         blogPost.className = "blog-post";
-
-        const blogTitle = document.createElement("h2");
-        blogTitle.textContent = blog.title;
-        blogTitle.addEventListener("click", () => {
+        blogPost.addEventListener("click", () => {
           window.location.href = `blog.html?id=${index}`;
         });
+        
+        const blogTitle = document.createElement("h2");
+        blogTitle.textContent = blog.title;
         blogPost.appendChild(blogTitle);
 
         const blogExcerpt = document.createElement("p");
