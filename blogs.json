@@ -1,37 +1,37 @@
 [
-  {
-    "title": "Blog Post 1: Exploring Minimalism",
-    "excerpt": "Minimalism is more than just a design trend; it's a lifestyle choice...",
-    "content": "<p>Minimalism is more than just a trend; it's a lifestyle that encourages intentionality and simplicity. In this post, I explore the principles of minimalism and how it can help streamline your life and enhance focus.</p><p>Here's an example of an embedded image:</p><img src='minimalistDesign.jpg' alt='A minimalist design'><p>And here's a video:</p><iframe width='560' height='315' src='https://www.youtube.com/embed/Q10tVT5aF2Y' frameborder='0' allowfullscreen></iframe>"
-  },
-  {
-    "title": "Blog Post 2: The Benefits of Mindfulness",
-    "excerpt": "Practicing mindfulness can reduce stress, improve concentration...",
-    "content": "<p>Mindfulness is a proven way to reduce stress, improve concentration, and enhance overall well-being. Here, I share my personal journey with mindfulness and offer tips on how to get started.</p><p>Here's an example of an embedded image:</p><img src='mindfulMoment.jpg' alt='Practicing Mindfulness'><p>And here's a video:</p><iframe width='560' height='315' src='https://www.youtube.com/embed/Q10tVT5aF2Y' frameborder='0' allowfullscreen></iframe>"
-  },
-  {
-    "title": "Blog Post 3: A Guide to Sustainable Living",
-    "excerpt": "Sustainability is crucial for the health of our planet...",
-    "content": "<p>Sustainability is key to maintaining the health of our planet. This guide covers practical steps you can take to reduce your carbon footprint and live a more eco-friendly lifestyle.</p><p>Here's an example of an embedded image:</p><img src='ecoLiving.jpg' alt='Sustainable living practices'><p>And here's a video:</p><iframe width='560' height='315' src='https://www.youtube.com/embed/Q10tVT5aF2Y' frameborder='0' allowfullscreen></iframe>"
-  },
-  {
-    "title": "Blog Post 4: The Power of Positive Thinking",
-    "excerpt": "Positive thinking can transform your outlook on life...",
-    "content": "<p>Positive thinking can truly transform your outlook and lead to greater happiness and success. In this post, I share techniques to cultivate a positive mindset and overcome negative thoughts.</p><p>Here's an example of an embedded image:</p><img src='positiveVibes.jpg' alt='Positive Thinking'><p>And here's a video:</p><iframe width='560' height='315' src='https://www.youtube.com/embed/Q10tVT5aF2Y' frameborder='0' allowfullscreen></iframe>"
-  },
-  {
-    "title": "Blog Post 5: The Art of Friendship",
-    "excerpt": "Friendship is an essential part of life, providing support and joy...",
-    "content": "<p>Friendship is an essential aspect of life, providing support, joy, and companionship. In this post, I explore the qualities that make a good friend and how to cultivate lasting relationships.</p><p>Friendships require effort and understanding, and this post dives into ways to be a supportive friend and build strong connections.</p><p>Here's an image symbolizing friendship:</p><img src='friendsTogether.jpg' alt='Friendship'><p>Watch this video about the importance of friendship:</p><iframe width='560' height='315' src='https://www.youtube.com/embed/Q10tVT5aF2Y' frameborder='0' allowfullscreen></iframe>"
-  },
-  {
-    "title": "Blog Post 6: The Magic of Gardening Tools",
-    "excerpt": "Gardening tools are a fascinating invention, making plant maintenance...",
-    "content": "<p>Gardening tools have revolutionized plant care, making maintenance easier and more efficient. This post highlights the history and evolution of gardening tools and their impact on modern horticulture.</p><p>From simple hand tools to advanced electric models, gardening tools have come a long way. Discover the benefits of using the right tools and tips for choosing the best one for your garden.</p><p>Here's an image of modern gardening tools:</p><img src='gardeningTools.jpg' alt='Gardening Tools'><p>Watch this video on gardening tools:</p><iframe width='560' height='315' src='https://www.youtube.com/embed/Q10tVT5aF2Y' frameborder='0' allowfullscreen></iframe>"
-  },
-  {
-    "title": "Blog Post 7: The Wonders of Stargazing",
-    "excerpt": "Stargazing allows us to connect with nature and appreciate the universe...",
-    "content": "<p>Stargazing offers a beautiful way to connect with nature and appreciate the vastness of the universe. This post explores the basics of stargazing and tips for beginners.</p><p>Learn about the best times and places to stargaze, essential equipment, and how to identify constellations. Stargazing can be a relaxing and educational hobby for all ages.</p><p>Here's an image of a beautiful starry sky:</p><img src='starrySky.jpg' alt='Stargazing'><p>Watch this video about the basics of stargazing:</p><iframe width='560' height='315' src='https://www.youtube.com/embed/Q10tVT5aF2Y' frameborder='0' allowfullscreen></iframe>"
-  }
+{
+"title": "Blog Post 1: Exploring Minimalism",
+"excerpt": "Minimalism is more than just a design trend; it's a lifestyle choice...",
+"content": "<p>Minimalism is more than just a trend; it's a lifestyle that encourages intentionality and simplicity. In this post, I explore the principles of minimalism and how it can help streamline your life and enhance focus.</p><p>Here's an example of an embedded image:</p><img src='goodBoi.jpg' alt='A minimalist design'><p>And here's a random video:</p><iframe width='560' height='315' src='https://www.youtube.com/embed/qal34e9v_pk' frameborder='0' allowfullscreen></iframe>"
+},
+{
+"title": "Blog Post 2: The Benefits of Mindfulness",
+"excerpt": "Practicing mindfulness can reduce stress, improve concentration...",
+"content": "<p>Mindfulness is a proven way to reduce stress, improve concentration, and enhance overall well-being. Here, I share my personal journey with mindfulness and offer tips on how to get started.</p><p>Here's an example of an embedded image:</p><img src='goodBoi.jpg' alt='Practicing Mindfulness'><p>And here's a random video:</p><iframe width='560' height='315' src='https://www.youtube.com/embed/qal34e9v_pk' frameborder='0' allowfullscreen></iframe>"
+},
+{
+"title": "Blog Post 3: A Guide to Sustainable Living",
+"excerpt": "Sustainability is crucial for the health of our planet...",
+"content": "<p>Sustainability is key to maintaining the health of our planet. This guide covers practical steps you can take to reduce your carbon footprint and live a more eco-friendly lifestyle.</p><p>Here's an example of an embedded image:</p><img src='goodBoi.jpg' alt='Sustainable living practices'><p>And here's a random video:</p><iframe width='560' height='315' src='https://www.youtube.com/embed/qal34e9v_pk' frameborder='0' allowfullscreen></iframe>"
+},
+{
+"title": "Blog Post 4: The Power of Positive Thinking",
+"excerpt": "Positive thinking can transform your outlook on life...",
+"content": "<p>Positive thinking can truly transform your outlook and lead to greater happiness and success. In this post, I share techniques to cultivate a positive mindset and overcome negative thoughts.</p><p>Here's an example of an embedded image:</p><img src='goodBoi.jpg' alt='Positive Thinking'><p>And here's a random video:</p><iframe width='560' height='315' src='https://www.youtube.com/embed/qal34e9v_pk' frameborder='0' allowfullscreen></iframe>"
+},
+{
+"title": "Blog Post 5: The Art of Friendship",
+"excerpt": "Friendship is an essential part of life, providing support and joy...",
+"content": "<p>Friendship is an essential aspect of life, providing support, joy, and companionship. In this post, I explore the qualities that make a good friend and how to cultivate lasting relationships.</p><p>Friendships require effort and understanding, and this post dives into ways to be a supportive friend and build strong connections.</p><p>Here's an image symbolizing friendship:</p><img src='goodBoi.jpg' alt='Friendship'><p>Watch this random video about something completely random:</p><iframe width='560' height='315' src='https://www.youtube.com/embed/qal34e9v_pk' frameborder='0' allowfullscreen></iframe>"
+},
+{
+"title": "Blog Post 6: The Magic of Gardening Tools",
+"excerpt": "Gardening tools are a fascinating invention, making plant maintenance...",
+"content": "<p>Gardening tools have revolutionized plant care, making maintenance easier and more efficient. This post highlights the history and evolution of gardening tools and their impact on modern horticulture.</p><p>From simple hand tools to advanced electric models, gardening tools have come a long way. Discover the benefits of using the right tools and tips for choosing the best one for your garden.</p><p>Here's an image of modern gardening tools:</p><img src='goodBoi.jpg' alt='Gardening Tools'><p>Watch this random video:</p><iframe width='560' height='315' src='https://www.youtube.com/embed/qal34e9v_pk' frameborder='0' allowfullscreen></iframe>"
+},
+{
+"title": "Blog Post 7: The Wonders of Stargazing",
+"excerpt": "Stargazing allows us to connect with nature and appreciate the universe...",
+"content": "<p>Stargazing offers a beautiful way to connect with nature and appreciate the vastness of the universe. This post explores the basics of stargazing and tips for beginners.</p><p>Learn about the best times and places to stargaze, essential equipment, and how to identify constellations. Stargazing can be a relaxing and educational hobby for all ages.</p><p>Here's an image of a beautiful starry sky:</p><img src='goodBoi.jpg' alt='Stargazing'><p>Watch this random video about nothing in particular:</p><iframe width='560' height='315' src='https://www.youtube.com/embed/qal34e9v_pk' frameborder='0' allowfullscreen></iframe>"
+}
 ]
